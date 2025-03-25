@@ -1,0 +1,12 @@
+[project]
+name = "recsys-course"
+version = "0.1.0"
+description = "Recommender Systems course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "grocery",
+]
+
+[tool.uv.sources]
+grocery = { path = "grocery" }

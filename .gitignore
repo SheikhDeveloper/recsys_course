@@ -1,0 +1,8 @@
+**/.pytest_cache
+**/.venv
+**/*.egg-info
+**/*.egg
+**/__pycache__
+**/__ruff_cache__
+**/.DS_Store
+**/.python-version
