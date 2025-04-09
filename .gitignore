@@ -6,3 +6,8 @@
 **/__ruff_cache__
 **/.DS_Store
 **/.python-version
+**/.ipynb_checkpoints
+**/catboost_info
+**/*.parquet
+**/*.pkl
+**/*.cbm

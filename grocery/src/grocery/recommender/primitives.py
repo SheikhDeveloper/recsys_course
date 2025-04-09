@@ -9,7 +9,7 @@ type Feature = float | str | Embedding
 @dataclass
 class Candidate:
     id: int
-    features: dict[str, Feature]
+    features: dict[str, Feature] | None = None
 
 
 __all__ = ["Candidate", "Embedding", "Feature"]
