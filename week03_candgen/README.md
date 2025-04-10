@@ -1,8 +1,7 @@
-## Week 02: Candidate generation
-- Lecture: link
-- Slides: link
-- Seminar: link
-- Homework: see [homework/README.md](homework/README.md)
+## Week 03: Candidate generation
+- Lecture slides: [PDF](lecture.pdf)
+- Seminar: [notebook](practice.ipynb)
+- Homework: [homework/README.md](homework/README.md)
 
 ### Further reading
 To be added

@@ -9,7 +9,7 @@ During practice, we've discussed common candidate generation (CG) stage abstract
 Implement the model from [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/pdf/1905.03375).
 
 ### 2. Simplified SLIM (1 point)
-Implement the model from [SLIM: Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/document/6137254), specifically the simplified version from this [paper](https://www.math.unipd.it/~aiolli/PAPERS/MSD_final.pdf). This version drops the constraint of diagonal weights being equal to zero and uses the scikit-learn solver for optimization.
+Implement the model from [SLIM: Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/document/6137254), specifically the simplified version from this [paper](https://www.slideshare.net/slideshow/efficient-slides/27138952). This version drops the constraint of diagonal weights being equal to zero and uses the scikit-learn solver for optimization.
 
 ### 3. Model Appliers for Inference (1 point)
 Implement `LinearItemToItemCG` class for inference of EASE/SLIM. Also implement the `ANN` using one of the frameworks for approximate nearest neighbor search, and compare ALS with EASE.
