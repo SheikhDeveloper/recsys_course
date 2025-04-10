@@ -1,9 +1,11 @@
 from dataclasses import dataclass
+from typing import TypeAlias
+
 import numpy as np
 
 
-type Embedding = np.ndarray
-type Feature = float | str | Embedding
+Embedding: TypeAlias = np.ndarray
+Feature: TypeAlias = float | str | Embedding
 
 
 @dataclass

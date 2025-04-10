@@ -1,4 +1,4 @@
-from typing import Callable
+from typing import Callable, TypeAlias
 from abc import ABC, abstractmethod
 
 import polars as pl
@@ -7,7 +7,7 @@ from tqdm import tqdm
 from grocery.recommender.primitives import Candidate
 
 # recommend(user_id, num_items) -> list[candidate]
-type RecommendHandle = Callable[[int, int], list[Candidate]]
+RecommendHandle: TypeAlias = Callable[[int, int], list[Candidate]]
 
 
 class Metric(ABC):
