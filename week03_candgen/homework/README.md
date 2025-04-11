@@ -33,7 +33,7 @@ Implement Mixigen - a personalized GBRT-based algorithm for adaptive blending of
 3. Train the model to predict whether they will be in the final top-N shown candidates using only user and source CG information
 
 ### SLIM Optimizer (2 points)
-Since Python libraries don't have coordinate descent implementations with arbitrary linear constraints, implementing the model as described in the paper requires writing your own optimizer. However, a pure Python implementation would be EXRTREMELY slow.
+Since Python libraries don't have coordinate descent implementations with arbitrary linear constraints, implementing the model as described in the paper requires writing your own optimizer. However, a pure Python implementation would be EXTREMELY slow.
 
 If you're feeling ambitious, you can implement your own SLIM-specific coordinate descent optimizer using a lower-level language (or `Cython`/`Numba`). This can earn you up to 2 additional points, depending on the implementation quality. Implementation hints are provided in the bonus task section.
 
