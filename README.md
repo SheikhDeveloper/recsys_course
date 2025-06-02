@@ -34,7 +34,7 @@ This repository contains materials for the Recommender Systems course taught at 
 
 - [Daniil Tkachenko](https://github.com/deadpadre) - course admin, lectures
 - [Roma Nigmatullin](https://github.com/rmnigm) - seminars, homeworks
-- Kirill Khrylchenko - lectures
+- [Kirill Khrylchenko](https://github.com/KhrylchenkoKirill) - lectures
 - Alena Zaytseva - lectures
 - [Alexey Krasilnikov](https://github.com/KrasilnikovAV) - seminars, homeworks
 - [Artem Matveev](https://github.com/matfu-pixel) - seminars, homeworks
