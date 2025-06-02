@@ -20,13 +20,13 @@ This repository contains materials for the Recommender Systems course taught at 
     - Lecture: Deep Learning in RecSys, ranking models and approaches
     - Seminar: Neural ranking, Multisize Unified Embeddings, Piecewise Linear Encoding, DCNv2
 - Week 6: Neural candidate generation
-    - Lecture: TBA
-    - Seminar: TBA
+    - Lecture: Two-tower models, sampled softmax and LogQ correction (with derivation)
+    - Seminar: SASRec implementation with different losses
 - Week 7: Case studies & production
-    - Lecture: TBA
-    - Seminar: RecSys toy microservice
+    - Lecture: Real recommender systems design in Yandex and elsewhere
+    - Bonus lecture: Graph methods in RecSys
 - Week 8: Industry trends
-    - Lecture: TBA
+    - Lecture: Generative approach, Semantic IDs, LLMs in RecSys and more
     - Seminar: Best contest solutions presentation
 
 
